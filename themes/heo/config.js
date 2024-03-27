@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: '0y.games',
   HEO_HERO_TITLE_4: '全新上线',
-  HEO_HERO_TITLE_5: '「近期推荐」3月新游戏-伊苏10',
-  HEO_HERO_TITLE_LINK: 'https://www.0y.games/article/NORDICS',
+  HEO_HERO_TITLE_5: '「近期推荐」地平线：西之绝境 全网首发',
+  HEO_HERO_TITLE_LINK: 'https://www.0y.games/article/Horizon-ForbiddenWest',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '热门游戏', url: '/tag/热门' },
