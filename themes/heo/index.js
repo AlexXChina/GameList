@@ -116,7 +116,7 @@ const LayoutBase = props => {
             {/* 主区上部嵌入 */}
             {slotTop}
             {children}
-          <AdSlot type='adsbygoogle' /> 
+          <AdSlot type='flow' /> 
           </div>
 
           <div className='lg:px-2'></div>
@@ -154,7 +154,7 @@ const LayoutIndex = props => {
           : (
             <BlogPostListScroll {...props} />
             )}
-      <AdSlot type='adsbygoogle' /> 
+      <AdSlot type='flow' /> 
       </div>
   )
 }
@@ -337,7 +337,7 @@ const LayoutSlug = props => {
                 <hr className="my-4 border-dashed" />
                 {/* 评论区上方广告 */}
                 <div className="py-2">
-                    <AdSlot type='adsbygoogle' />
+                    <AdSlot type='flow' />
                 </div>
                 {/* 评论互动 */}
                 <div className="duration-200 overflow-x-auto px-5">
